@@ -1,5 +1,5 @@
 
-# ESP32 Garage Door ontroller
+# ESP32 Garage Door Controller
 
 A wireless garage door controller that can be easily incorporated inside your IoT world.
 Powered by an ESP32 over Wi-Fi, the microcontroller hosts an internal server that can be relayed to an app on your phone. 
